@@ -46,5 +46,4 @@
 
 ## 📚 참고
 - 데이터 출처: Kaggle Phishing Websites Dataset
-- 관련 논문: PDF 파일 첨부
 
